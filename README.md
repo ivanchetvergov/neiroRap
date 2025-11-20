@@ -1,4 +1,4 @@
-# 🎤 NeiroRap: Генератор стилизованной рэп-лирики
+# 🎤 NeuroRap: Генератор стилизованной рэп-лирики
 
 <p align="center">
   <img src="https://img.shields.io/badge/Model-RuGPT3Small-blue?style=flat-square" alt="Model">
